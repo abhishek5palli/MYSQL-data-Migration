@@ -48,7 +48,9 @@ def send_email(status):
         email_data = json.load(email_fp)
 
     sender_email = "abhishekpallip41@gmail.com"
+    logging.info("reading Sender's email")
     receiver_email = "abhishekpalli143@gmail.com"
+    logging.info("reading Receiver's email")
     password = f"{email_data['apppass']}"
 
     subject = "ETL Pipeline Status"
