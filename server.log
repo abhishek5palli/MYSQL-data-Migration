@@ -1,0 +1,8 @@
+INFO:15:Dec:24 21:32:49:root:MYSQL connection successful
+INFO:15:Dec:24 21:32:50:root:MSSQL connection successful
+INFO:15:Dec:24 21:32:50:root:read data from MYSQL database
+INFO:15:Dec:24 21:32:50:root:Successfully transferred the data into MSSQL
+INFO:15:Dec:24 21:32:50:root:MYSQL connection closed
+INFO:15:Dec:24 21:32:50:root:MSSQL connection closed
+INFO:15:Dec:24 21:32:50:root:success email content has been created
+INFO:15:Dec:24 21:32:53:root:Email has been sent successfully
